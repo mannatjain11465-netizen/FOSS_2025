@@ -1,0 +1,2 @@
+A calculator is an tool that performs mathematical operations quickly.
+It is used to make calculations faster and reduce human errors in maths and daily tasks.
